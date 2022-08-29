@@ -18,9 +18,7 @@ Complete initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Req
 
 * Scraped the JPL Featured Space Image [here](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars). Used splinter to navigate the site to find the image url for the current Featured Mars Image.
 
-### Mars Weather
 
-* Scraped the Mars Weather from twitter account [here](https://twitter.com/marswxreport?lang=en).
 
 ### Mars Facts
 
